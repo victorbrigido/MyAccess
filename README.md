@@ -10,7 +10,7 @@ Este projeto é uma aplicação iOS desenvolvida em SwiftUI e integração com F
 
 - **Firebase Firestore:** O Firestore é utilizado para armazenar os dados dos usuários e recuperar informações relevantes, como o UID do usuário, que é usado para gerar o QR Code na tela principal.
 
-- **Menu Lateral:** Implementamos um menu lateral na tela principal, que é acionado por um botão de hambúrguer no canto superior esquerdo. O menu oferece opções como visualizar o QR Code, fazer reservas, associar empresa, ver detalhes da conta, entre outros.
+- **Menu Lateral:** Implementei um menu lateral na tela principal, que é acionado por um botão no canto superior esquerdo. O menu oferece opções como visualizar o QR Code, fazer reservas, associar empresa, ver detalhes da conta, entre outros.
 
 - **Cronômetro Regressivo:** Adicionamos um cronômetro regressivo na tela principal, que conta regressivamente a partir de 60 segundos. Quando o tempo se esgota, uma ação pode ser acionada, como gerar um novo QR Code.
 
